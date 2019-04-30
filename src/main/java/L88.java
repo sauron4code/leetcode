@@ -1,12 +1,8 @@
 /**
- * program: leetcode
- * <p>
- * author: 黎海明
- * <p>
- * email: laughing@jollycorp.com
- * <p>
- * create: 2019-04-30 14:53
- **/
+ * @lc app=leetcode.cn id=88 lang=java
+ *
+ * [88] 合并两个有序数组
+ */
 
 /**
  * 比较简单，nums1 nums2从后往前进行合并
