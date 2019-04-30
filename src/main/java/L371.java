@@ -22,4 +22,7 @@ public class L371 {
     }
 
 
+    public static void main(String args[]){
+        System.out.println(new L371().getSum(3, -1));
+    }
 }
