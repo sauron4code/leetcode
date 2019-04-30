@@ -22,8 +22,6 @@ import java.util.List;
  */
 public class L234 {
 
-
-
     private ListNode findMiddleNode(ListNode head){
         if (head == null || head.next == null){
             return head;
