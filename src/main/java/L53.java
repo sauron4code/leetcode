@@ -23,6 +23,10 @@
 
  如果你已经实现复杂度为 O(n) 的解法，尝试使用更为精妙的分治法求解。
  */
+
+/**
+ * 分治算法
+ */
 public class L53 {
 
     private int allMax(int left, int right, int mid, int[] nums){
